@@ -1,0 +1,11 @@
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06 Calculator.csproj.AssemblyReference.cache
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06 Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06_Calculator.Form1.resources
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06_Calculator.Properties.Resources.resources
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06 Calculator.csproj.GenerateResource.cache
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\bin\Debug\MT06 Calculator.exe.config
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\bin\Debug\MT06 Calculator.exe
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\bin\Debug\MT06 Calculator.pdb
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06 Calculator.exe
+C:\Users\A Ibrahim\source\repos\MT06 Calculator\MT06 Calculator\obj\Debug\MT06 Calculator.pdb
